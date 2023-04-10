@@ -1,0 +1,5 @@
+This game is made with Unreal Engine 5.
+
+* To open on Unreal Engine, click browse and find your LahzaLvlDesign folder and press the .uproject file.
+
+* All 3 floors are in separate folders, if you want to see each floor individually, go to the "levels" folder and click the eye to show/hide the levels you want to see or not see.
